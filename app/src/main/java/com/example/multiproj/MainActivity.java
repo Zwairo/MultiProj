@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public  void yavuz(View view){
-        Intent intent = new Intent(this,yavuz.class);
+        Intent intent = new Intent(this,yavuz.yavuz.class);
         startActivity(intent);
     }
 }
