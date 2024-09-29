@@ -11,7 +11,7 @@
         android:id="@+id/Yavuzbutton1"
         android:layout_width="120dp"
         android:layout_height="57dp"
-        android:layout_marginStart="55dp"
+        android:layout_marginStart="48dp"
         android:layout_marginTop="250dp"
         android:layout_marginBottom="213dp"
         android:text="Button"
