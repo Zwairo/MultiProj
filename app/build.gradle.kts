@@ -6,6 +6,10 @@ android {
     namespace = "com.example.multiproj"
     compileSdk = 34
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.multiproj"
         minSdk = 24
